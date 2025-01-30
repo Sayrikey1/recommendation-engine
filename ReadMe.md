@@ -75,6 +75,12 @@ print(recommendations)
 └── README.md
 ```
 
+## Contact 📧
+
+- **Name**: Kamal Seriki
+- **Email**: kamalseriki49@gmail.com
+- **GitHub**: [Sayrikey1](https://github.com/Sayrikey1)
+  
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
